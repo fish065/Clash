@@ -1,12 +1,12 @@
 # 代理节点选择 PROXY
 # 白名单模式 PROXY，黑名单模式 DIRECT Final
 # Apple 服务代理 Apple
-# Telegram
-# Netflix
-# Youtube
 # 国际流媒体服务 GlobalMedia
 # 大陆流媒体面向港澳台限定服务 HKMTMedia
 # 运营商及声名狼藉网站劫持 Hijacking
+# Telegram
+# Netflix
+# YouTube
 
 Rule:
 # Unbreak
